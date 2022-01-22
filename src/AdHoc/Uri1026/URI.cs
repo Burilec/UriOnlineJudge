@@ -11,11 +11,7 @@ namespace Uri1026
             {
                 var strings = line.Split(' ');
 
-                var a = long.Parse(strings[0]);
-
-                var b = long.Parse(strings[1]);
-
-                Console.WriteLine(a ^ b);
+                Console.WriteLine(long.Parse(strings[0]) ^ long.Parse(strings[1]));
             }
         }
     }
