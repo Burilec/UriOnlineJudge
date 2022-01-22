@@ -1,0 +1,9 @@
+﻿8
+Sudirvai 10
+flatliton 20
+HeroAlom 30
+NotirPuth 40
+GolamErFo 7
+HalarPuth 60
+Thor 0
+ThorErVai -1
