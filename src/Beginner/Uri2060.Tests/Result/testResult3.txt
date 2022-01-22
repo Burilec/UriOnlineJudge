@@ -1,0 +1,4 @@
+﻿0 Multiplo(s) de 2
+0 Multiplo(s) de 3
+0 Multiplo(s) de 4
+0 Multiplo(s) de 5

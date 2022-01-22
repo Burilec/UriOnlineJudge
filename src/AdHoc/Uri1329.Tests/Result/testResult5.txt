@@ -1,0 +1,4 @@
+﻿Mary won 3 times and John won 2 times
+Mary won 5 times and John won 1 times
+Mary won 6 times and John won 1 times
+Mary won 2 times and John won 2 times
