@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Uri1789.Tests
+namespace Uri1029.Tests
 {
     public sealed class UriTest
     {

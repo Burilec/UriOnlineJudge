@@ -1,0 +1,10 @@
+﻿fib(1) = 0 calls = 1
+fib(2) = 2 calls = 1
+fib(3) = 4 calls = 2
+fib(4) = 8 calls = 3
+fib(5) = 14 calls = 5
+fib(6) = 24 calls = 8
+fib(7) = 40 calls = 13
+fib(8) = 66 calls = 21
+fib(9) = 108 calls = 34
+fib(10) = 176 calls = 55

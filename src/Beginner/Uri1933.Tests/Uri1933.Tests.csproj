@@ -21,32 +21,32 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Tests\DefaultTest\DefaultTest.csproj" />
-    <ProjectReference Include="..\Uri1789\Uri1789.csproj" />
+    <ProjectReference Include="..\Uri1933\Uri1933.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Input\testInput4.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Update="Input\testInput3.txt">
+    <None Update="Input\testInput1.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="Input\testInput2.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Input\testInput1.txt">
+    <None Update="Input\testInput3.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Result\testResult4.txt">
+    <None Update="Input\testInput4.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Result\testResult3.txt">
+    <None Update="Result\testResult1.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
     <None Update="Result\testResult2.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Update="Result\testResult1.txt">
+    <None Update="Result\testResult3.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Result\testResult4.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>

@@ -6,7 +6,7 @@ using Xunit;
 
 namespace Uri1069.Tests
 {
-    public class UriTest
+    public sealed class UriTest
     {
         [Theory]
         [InlineData("testInput1.txt", "testResult1.txt")]

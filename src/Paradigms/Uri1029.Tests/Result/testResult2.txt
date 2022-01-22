@@ -1,0 +1,10 @@
+﻿fib(39) = 204668308 calls = 63245986
+fib(23) = 92734 calls = 28657
+fib(1) = 0 calls = 1
+fib(6) = 24 calls = 8
+fib(3) = 4 calls = 2
+fib(19) = 13528 calls = 4181
+fib(33) = 11405772 calls = 3524578
+fib(37) = 78176336 calls = 24157817
+fib(22) = 57312 calls = 17711
+fib(13) = 752 calls = 233
