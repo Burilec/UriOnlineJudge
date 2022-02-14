@@ -20,15 +20,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Tests\DefaultTest\DefaultTest.csproj" />
-    <ProjectReference Include="..\Uri1069\Uri1069.csproj" />
+    <ProjectReference Include="..\Uri1170\Uri1170.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Input\testInput10.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Input\testInput9.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Input\testInput8.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Input\testInput7.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
-    <None Update="Input\testInput6.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Input\testInput5.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Input\testInput4.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
     <None Update="Input\testInput3.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None>
